@@ -19,8 +19,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "simple_compress"
   gem.homepage = "http://github.com/julik/simple_compress"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = 'Tiny methods for gzip-compressing and expanding a string'
+  gem.description = 'Tiny methods for gzip-compressing and expanding a string'
   gem.email = "me@julik.nl"
   gem.authors = ["Julik Tarkhanov"]
   # dependencies defined in Gemfile

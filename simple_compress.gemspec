@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["Julik Tarkhanov"]
   s.date = "2015-02-16"
-  s.description = "TODO: longer description of your gem"
+  s.description = "Tiny methods for gzip-compressing and expanding a string"
   s.email = "me@julik.nl"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -26,13 +26,14 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "lib/simple_compress.rb",
+    "simple_compress.gemspec",
     "spec/simple_compress_spec.rb",
     "spec/spec_helper.rb"
   ]
   s.homepage = "http://github.com/julik/simple_compress"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.2.2"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "Tiny methods for gzip-compressing and expanding a string"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
