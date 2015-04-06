@@ -1,5 +1,7 @@
 # simple_compress
 
+![Compression](images/baro.png)
+
 A tiny module for doing Gzip compression/expansion using a known pattern, that is usable with
 Ruby strings. Encapsulates the whole lap dance with IO and things.
 
