@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
   s.authors = ["Julik Tarkhanov"]
-  s.date = "2015-02-16"
+  s.date = "2016-01-21"
   s.description = "Tiny methods for gzip-compressing and expanding a string"
   s.email = "me@julik.nl"
   s.extra_rdoc_files = [
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md",
     "Rakefile",
+    "images/baro.png",
     "lib/simple_compress.rb",
     "simple_compress.gemspec",
     "spec/simple_compress_spec.rb",
