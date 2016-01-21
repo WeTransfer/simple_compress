@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.version = SimpleCompress::VERSION
   gem.name = "simple_compress"
-  gem.homepage = "http://github.com/julik/simple_compress"
+  gem.homepage = "http://github.com/WeTransfer/simple_compress"
   gem.license = "MIT"
   gem.summary = 'Tiny methods for gzip-compressing and expanding a string'
   gem.description = 'Tiny methods for gzip-compressing and expanding a string'
