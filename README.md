@@ -23,6 +23,5 @@ and in reverse
 
 ## Copyright
 
-Copyright (c) 2015 Julik Tarkhanov. See LICENSE.txt for
-further details.
+Copyright (c) 2015 WeTransfer. See LICENSE.txt for further details.
 
