@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
     "spec/simple_compress_spec.rb",
     "spec/spec_helper.rb"
   ]
-  s.homepage = "http://github.com/julik/simple_compress"
+  s.homepage = "http://github.com/WeTransfer/simple_compress"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.2.2"
   s.summary = "Tiny methods for gzip-compressing and expanding a string"
