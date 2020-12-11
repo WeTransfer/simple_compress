@@ -1,3 +1,5 @@
+****Notice: this library is no longer being developed. It is too small to be useful in its own right and if you need to use the code it is tiny enough to copy and paste into your project.**
+
 # simple_compress
 
 ![Compression](images/baro.png)
